@@ -16,6 +16,7 @@
 		"@material/typography": "^14.0.0",
 		"@mdi/js": "^7.4.47",
 		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-static": "^3.0.1",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"smui-theme": "^7.0.0",

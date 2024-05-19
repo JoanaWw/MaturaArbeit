@@ -47,11 +47,13 @@
 }
 </style>
 
-<TopBar/>
+<TopBar prev={false}/>
 <main>
     <Card>
     <Content>
-        <h1>Joanas matur </h1>
+        <h1>Joanas matur 2024 </h1>
+    </Content>
+    <Content>
     </Content>
     <Content>
     <div class="container">
