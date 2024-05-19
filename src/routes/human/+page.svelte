@@ -11,7 +11,7 @@
         </Content>
         <div class="divider"/>
         <Content>
-            
+            haloo
         </Content>
     </Card>
 </main>
