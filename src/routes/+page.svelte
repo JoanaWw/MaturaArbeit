@@ -54,7 +54,6 @@
         <h1>Joanas matur 2024 </h1>
     </Content>
     <Content>
-        Hello this is my text and it is awsome
     </Content>
     <Content>
     <div class="container">
