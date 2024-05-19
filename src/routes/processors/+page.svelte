@@ -3,7 +3,7 @@
     import Card, {Content} from "@smui/card";
 </script>
 
-<TopBar prev="../"/>
+<TopBar prev={true}/>
 <main>
     <Card>
         <Content>

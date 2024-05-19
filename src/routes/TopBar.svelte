@@ -5,14 +5,14 @@
 
 	import { mdiArrowLeftBold } from '@mdi/js';
 
-	export let prev: string | undefined;
+	export let prev: boolean | undefined;
 </script>
 
 <TopAppBar variant="static">
     <Row>
 		<Section style={"flex: 0 0 auto"}>
-			{#if prev != undefined}
-				<IconButton class="material-icons" on:click={() => {console.log(prev); if (prev) goto(prev)}}>
+			{#if prev}
+				<IconButton class="material-icons" on:click={() => {history.back()}}>
 					<Icon tag="svg" viewBox="0 0 24 24">
 						<path fill="currentColor" d={mdiArrowLeftBold} />
 					</Icon>

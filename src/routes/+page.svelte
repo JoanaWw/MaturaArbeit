@@ -47,7 +47,7 @@
 }
 </style>
 
-<TopBar/>
+<TopBar prev={false}/>
 <main>
     <Card>
     <Content>
