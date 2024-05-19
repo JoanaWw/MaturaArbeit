@@ -27,7 +27,7 @@ jobs:
         run: npm install
     
       - name: Generating CSS
-        run: npm run prev
+        run: npm run prep
 
       - name: build
         env:
