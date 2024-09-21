@@ -33,7 +33,7 @@
     const producer = () => active = tabs[5];
     const fish = () => active = tabs[2];
     const military_and_firedepartment = () => active = tabs[0];
-    const sewage_treatment_plant = () => active = tabs[0];
+    const sewage_treatment_plant = () => active = tabs[6];
 </script>
 
 
