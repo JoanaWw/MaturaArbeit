@@ -1,9 +1,8 @@
 <script lang="ts">
-    import { tap } from 'svelte-gestures';
     import Tab, { Label } from '@smui/tab';
     import TabBar from '@smui/tab-bar';
     import TopBar from './TopBar.svelte';
-    import Card, { Content } from '@smui/card';    
+    import Card, { Content } from '@smui/card';
 
     import ConsumerGoods from '$lib/tabs/military_firedepartment.svelte';
     import DrinkingWater from '$lib/tabs/drinking-water.svelte';
@@ -15,13 +14,13 @@
     
     import './app.css';
     let tabs = [
-        "firedepartment and military",
-        "drinking water",
-        "fish",
-        "human",
-        "processors",
-        "producer",
-        "sewage Treatment plant"
+        "Feuerwehr und Militär",
+        "Trinkwasser",
+        "Fisch",
+        "Mensch",
+        "Verarbeiter",
+        "Hersteller",
+        "Kläranlagen"
     ]
     let active = tabs[0];
 
