@@ -57,7 +57,7 @@
                 class="clickable"
                 id="water_to_human"
                 on:click={water_to_human}
-                on:tap={water_to_human}
+                on:touchend={water_to_human}
             />
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
@@ -67,7 +67,7 @@
                 class="clickable"
                 id="forest_to_human"
                 on:click={forest_to_human}
-                on:tap={forest_to_human}
+                on:touchend={forest_to_human}
             />
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
@@ -77,7 +77,7 @@
                 class="clickable"
                 id="processor_to_water"
                 on:click={processor_to_water}
-                on:tap={processor_to_water}
+                on:touchend={processor_to_water}
             />
 
             <!-- svelte-ignore a11y-click-events-have-key-events -->
@@ -87,7 +87,7 @@
                 id="human"
                 class="clickable"
                 on:click={human}
-                on:tap={human}
+                on:touchend={human}
                 width="32.204346"
                 height="78.099731"
                 x="838.36597"
@@ -101,7 +101,7 @@
                 id="processor"
                 class="clickable"
                 on:click={processor}
-                on:tap={processor}
+                on:touchend={processor}
             />
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
@@ -111,7 +111,7 @@
                 id="producer"
                 class="clickable"
                 on:click={producer}
-                on:tap={producer}
+                on:touchend={producer}
             />
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
@@ -120,7 +120,7 @@
                 id="fish"
                 class="clickable"
                 on:click={fish}
-                on:tap={fish}
+                on:touchend={fish}
                 width="72.493721"
                 height="33.40976"
                 x="391.68744"
@@ -137,7 +137,7 @@
                 id="militaryAndFiredepartment"
                 class="clickable"
                 on:click={military_and_firedepartment}
-                on:tap={military_and_firedepartment}
+                on:touchend={military_and_firedepartment}
             />
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
@@ -147,7 +147,7 @@
                 id="sewage_treatment_plant"
                 class="clickable"
                 on:click={sewage_treatment_plant}
-                on:tap={sewage_treatment_plant}
+                on:touchend={sewage_treatment_plant}
             />
         </svg>
     </Content>
