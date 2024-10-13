@@ -17,7 +17,7 @@
         "Trinkwasser",
         "Fisch",
         "Mensch",
-        "Verarbeiter",
+        "Verarbeiter und Hersteller",
         "Kläranlagen"
     ]
     let active = tabs[0];

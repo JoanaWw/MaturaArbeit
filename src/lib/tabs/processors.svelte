@@ -6,7 +6,7 @@
 <main>
     <Card>
         <Content>
-            <h1>Verarbeiter</h1>
+            <h1>Verarbeiter und Hersteller</h1>
         </Content>
         <div class="divider"/>
         <Content>
