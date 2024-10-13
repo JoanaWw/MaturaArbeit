@@ -5,7 +5,7 @@
 <main>
     <Card>
         <Content>
-            <h1>Kläranlagen</h1>
+            <h1>Kläranlagen und Deponien</h1>
         </Content>
         <div class="divider"/>
         <Content>
