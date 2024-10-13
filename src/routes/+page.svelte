@@ -11,6 +11,9 @@
     import Processors from '$lib/tabs/processors.svelte';
     import Producer from '$lib/tabs/producer.svelte';
     import SewageTreatmentPlant from '$lib/tabs/sewage-treatment-plant.svelte';
+    import Ground from '$lib/tabs/ground.svelte';
+    import Rain from '$lib/tabs/rain.svelte';
+    import Waters from '$lib/tabs/waters.svelte';
     
     import './app.css';
     let tabs = [
@@ -20,7 +23,10 @@
         "Mensch",
         "Verarbeiter",
         "Hersteller",
-        "Kläranlagen"
+        "Kläranlagen und Deponien",
+        "Niederschlag",
+        "Gewässer",
+        "Böden"
     ]
     let active = tabs[0];
 
@@ -170,6 +176,12 @@
             <Producer />
         {:else if active === tabs[6]}
             <SewageTreatmentPlant />
+        {:else if active === tabs[7]}
+            <Rain />
+        {:else if active === tabs[8]}
+            <Waters />
+        {:else if active === tabs[9]}
+            <Ground />
         {/if}
     </Content>
 </Card>

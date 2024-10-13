@@ -2,10 +2,11 @@
     import Card, {Content} from "@smui/card";
 </script>
 
+
 <main>
     <Card>
         <Content>
-            <h1>Kläranlagen und Deponien</h1>
+            <h1>Böden</h1>
         </Content>
         <div class="divider"/>
         <Content>
