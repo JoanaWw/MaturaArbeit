@@ -1,5 +1,4 @@
 <script lang="ts">
-    import { goto } from '$app/navigation';
     import IconButton, { Icon } from '@smui/icon-button';
     import TopAppBar, { Row, Section, Title } from '@smui/top-app-bar';
 
@@ -20,7 +19,7 @@
 			{/if}
 		</Section>
 		<Section>
-			<Title>PFAS eine schleichende Bedrohung</Title>
+			<Title>PFOS Eine schleichende Bedrohung für Mensch und Umwelt</Title>
 		</Section>
 	</Row>    
 </TopAppBar>

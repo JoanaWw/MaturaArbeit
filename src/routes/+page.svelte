@@ -39,6 +39,10 @@
     const fish = () => active = tabs[2];
     const military_and_firedepartment = () => active = tabs[0];
     const sewage_treatment_plant = () => active = tabs[6];
+    const drinking_water = () => active = tabs[1];
+    const rain = () => active = tabs[7];
+    const water = () => active = tabs[8];
+    const ground = () => active = tabs[9];
 </script>
 
 
@@ -46,7 +50,7 @@
 <main>
     <Card>
     <Content>
-        <h1>Joanas matur 2024 </h1>
+        <h1>Maturaarbeit Joana Wandhoven</h1>
     </Content>
     <Content>
     </Content>
@@ -121,13 +125,13 @@
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
             <rect
-                style="fill:#ffff0000"
+                style="fill:#00000000"
                 id="fish"
                 class="clickable"
                 on:click={fish}
                 on:touchstart={fish}
                 width="72.493721"
-                height="33.40976"
+                height="50.40976"
                 x="391.68744"
                 y="564.15155" 
             />
@@ -153,6 +157,56 @@
                 class="clickable"
                 on:click={sewage_treatment_plant}
                 on:touchstart={sewage_treatment_plant}
+            />
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-no-static-element-interactions -->
+            <path
+                style="fill:#00000000"
+                d="m 861.89334,577.72077 47.02374,-2 14.70276,127.07592 -73.94195,0.46826 z"
+                id="sewage_treatment_plant"
+                class="clickable"
+                on:click={drinking_water}
+                on:touchstart={drinking_water}
+            />
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-no-static-element-interactions -->
+            <path
+                style="fill:#00000000"
+                d="m 741.04328,214.6358 93.88894,-0.6678 7.88175,137.40873 -106.15504,4.21134 z"
+                id="rain"
+                class="clickable"
+                on:click={rain}
+                on:touchstart={rain}
+            />
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-no-static-element-interactions -->
+            <path
+                style="fill:#00000000"
+                d="m 1300.7306,77.588634 93.8889,-0.6678 7.8818,137.408726 -106.1551,4.21134 z"
+                id="snow"
+                class="clickable"
+                on:click={rain}
+                on:touchstart={rain}
+            />
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-no-static-element-interactions -->
+            <path
+                style="fill:#00000000"
+                d="m 622.42212,386.02046 200.236,-4.11562 1.80698,25.40965 -96.589,0.54666 -109.93072,6.44563 z"
+                id="ground"
+                class="clickable"
+                on:click={ground}
+                on:touchstart={ground}
+            />
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-no-static-element-interactions -->
+            <path
+                style="fill:#00000000"
+                d="m 398.27129,391.22742 -98.48463,1.28344 1.3729,179.18572 170.2107,-37.89159 -34.51852,-11.00762 45.96107,-13.1705 18.82813,-13.98842 14.16089,-46.41145 -37.73209,-14.9794 -55.99392,-9.74782 38.70068,-13.54306 z"
+                id="water"
+                class="clickable"
+                on:click={water}
+                on:touchstart={water}
             />
         </svg>
     </Content>
