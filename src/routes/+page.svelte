@@ -9,6 +9,7 @@
     import Fish from '$lib/tabs/fish.svelte';
     import Human from '$lib/tabs/human.svelte';
     import Processors from '$lib/tabs/processors.svelte';
+    import Producer from '$lib/tabs/producer.svelte';
     import SewageTreatmentPlant from '$lib/tabs/sewage-treatment-plant.svelte';
     
     import './app.css';
@@ -17,7 +18,8 @@
         "Trinkwasser",
         "Fisch",
         "Mensch",
-        "Verarbeiter und Hersteller",
+        "Verarbeiter",
+        "Hersteller",
         "Kläranlagen"
     ]
     let active = tabs[0];
@@ -27,9 +29,10 @@
     const processor_to_water = () => active = tabs[4];
     const human = () => active = tabs[3];
     const processor = () => active = tabs[4]
+    const producer = () => active = tabs[5];
     const fish = () => active = tabs[2];
     const military_and_firedepartment = () => active = tabs[0];
-    const sewage_treatment_plant = () => active = tabs[5];
+    const sewage_treatment_plant = () => active = tabs[6];
 </script>
 
 
@@ -104,10 +107,10 @@
             <path
                 style="fill:#00000000"
                 d="m 982.38225,607.59055 35.71985,20.95472 5.7989,-3.6355 5.9279,3.39499 6.3101,-3.31706 0.111,-28.01584 -3.351,-29.46639 -4.9169,0.029 -0.1238,16.64688 c 0,0 -26.5327,-14.5447 -26.9269,-14.45631 -0.3943,0.0884 -18.72742,10.49787 -18.72742,10.49787 z"
-                id="processor2"
+                id="producer"
                 class="clickable"
-                on:click={processor}
-                on:touchstart={processor}
+                on:click={producer}
+                on:touchstart={producer}
             />
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
@@ -164,6 +167,8 @@
         {:else if active === tabs[4]}
             <Processors />
         {:else if active === tabs[5]}
+            <Producer />
+        {:else if active === tabs[6]}
             <SewageTreatmentPlant />
         {/if}
     </Content>
