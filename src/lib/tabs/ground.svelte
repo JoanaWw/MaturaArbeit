@@ -30,7 +30,7 @@ import Card, {Content} from "@smui/card";
             Leider liegen keine separaten Daten für Zürich vor.
         </TxtImage>
 
-        Ein wesentliches Ergebnis dieser Untersuchung ist, dass PFOS in allen 146 Boden-proben gefunden wurde.  
+        Ein wesentliches Ergebnis dieser Untersuchung ist, dass PFOS in allen 146 Bodenproben gefunden wurde.  
         Häufig dominierte PFOS die Summe der 32 PFAS.  
         Somit sind auch alpine und abgelegene Regionen mit PFOS belastet und es muss davon ausgegangen werden, dass PFOS in den Böden der ganzen Schweiz verbreitet ist.
         Dies wird durch eine Untersuchung im Kanton St. Gallen bestätigt. 
