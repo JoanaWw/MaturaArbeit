@@ -29,3 +29,19 @@ footer main {
 footer {
     margin-bottom: 2em;
 }
+
+.txt_image_container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.txt_image_container img {
+    width: 90% !important;
+}
+
+.txt_image_container .label {
+    margin-right: 7%;
+    width: 85%;
+    font-size: 11px;
+}
