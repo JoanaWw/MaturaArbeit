@@ -1,6 +1,6 @@
 <script>
     import TxtImage from "$lib/txt_image.svelte";
-import Card, {Content} from "@smui/card";
+    import Card, {Content} from "@smui/card";
 </script>
 
 
