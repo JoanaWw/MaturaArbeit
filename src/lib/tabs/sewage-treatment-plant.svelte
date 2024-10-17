@@ -7,7 +7,7 @@
         <h1>Kläranlagen und Deponien</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
         PFOS-haltige Produkte werden häufig nach Gebrauch entsorgt und können dann auf Deponien oder in Kläranlagen landen. 
         Derzeit gibt es kein standardisiertes Verfahren, dass PFOS aus dem Abwasser oder dem Klärschlamm herausfiltern kann. 
         Somit landet die Chemikalie im Abwasser oder im Klärschlamm. Auf diesem Weg kann die Chemikalie in den Boden oder ins Grundwasser gelangen. 

@@ -6,10 +6,10 @@ import Card, {Content} from "@smui/card";
 
 <Card>
     <Content>
-        <h1>Militärstützpunkte & Feuerwehrübungsplätze</h1>
+        <h1>Militärstützpunkte und Feuerwehrübungsplätze</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
         In diesem Kapitel werden zwei bekannte Hauptquellen der PFOS-Belastung zusammengefasst. 
         Auf Militärstützpunkten und Feuerwehrübungsplätzen wird häufig PFOS-haltiger Feuerlöschschaum verwendet, der dann bei Übungen in die Umwelt gelangt. 
         Das Beispiel der Stadt Ronneby in Schweden verdeutlicht dies eindrucksvoll. 

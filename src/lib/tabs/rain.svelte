@@ -9,7 +9,7 @@
         <h1>Niederschlag</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
         PFOS gelangt auch über Regen und Schnee in die Umwelt. Aus diesem Grund findet man die Substanz auch in Polargebieten und alpinen Seen, 
         die weit entfernt von industriellen Produktionsstätten und menschlichen Siedlungen liegen. Besonders interessant ist in diesem Zusammenhang eine Studie über Regenwasser. 
         Diese zeigt, dass PFOS weltweit im Regenwasser nachgewiesen werden kann.

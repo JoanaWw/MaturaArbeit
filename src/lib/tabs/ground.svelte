@@ -9,7 +9,7 @@
         <h1>Böden</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
         Im Auftrag des Bundesamtes für Umwelt und der Nationalen Bodenbeobachtung hat die Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) im Jahr 2021 erstmals systematisch die PFAS-Verbindungen in Schweizer Böden untersucht und bewertet.  
         Dazu wurden insgesamt 146 Oberbodenproben aus drei verschiedenen Messkampagnen zusammengeführt.  
         Die untersuchten Bodenproben verteilen sich über die ganze Schweiz und es wurde keine Fokussierung auf potenziell belastete Standorte wie z.B. Feuerwehrübungsplätze vorgenommen.  

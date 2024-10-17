@@ -10,7 +10,7 @@
         <h1>Nahrung (Fische)</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
 
     Im folgenden Kapitel wird die Belastung unserer Nahrung mit PFOS näher betrachtet. 
     Grundsätzlich gelten Meeresfrüchte, Wildtiere, Eier und Fische als besonders kritisch für PFOS.   

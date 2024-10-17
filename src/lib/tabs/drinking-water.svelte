@@ -9,7 +9,7 @@ import Card, {Content} from "@smui/card";
             <h1>Trinkwasser</h1>
         </Content>
         <div class="divider"/>
-        <Content>
+        <Content class="main_txt">
         In diesem Kapitel wird die Frage behandelt, ob PFOS auch im Trinkwasser der Schweiz vorkommt.
         Im Jahr 2023 wurde die bisher umfangreichste Untersuchung zum Thema PFAS im Trinkwasser in der Schweiz durchgeführt.  
         Dabei wurden von Februar bis Mai 2023 in der gesamten Schweiz und im Fürstentum Liechtenstein 564 Trinkwasserproben amtlich erhoben und in fünf kantonalen Laboratorien (BE, BL, SG, SH, VD) auf 20 PFAS, darunter PFOS, untersucht. 

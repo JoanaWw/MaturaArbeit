@@ -9,7 +9,7 @@ import Card, {Content} from "@smui/card";
         <h1>Gewässer</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
         Der Themenkomplex Gewässer ist sehr vielschichtig und weist Überschneidungen mit anderen Kapiteln auf. 
         Trotzdem soll hier ein kurzer Überblick über die Situation in der Schweiz gegeben werden.
         Das Bundesamt für Umwelt (BAFU) hat im Jahr 2021 eine Analyse zu den Chemikalien im Grundwasser und in Oberflächengewässern in der Schweiz durchgeführt.  
@@ -40,7 +40,7 @@ import Card, {Content} from "@smui/card";
         Leider gibt es bisher keine wissenschaftlichen Untersuchungen
 
         <TxtImage src="surfacewater.png">
-            Die Abbildung zeigt die PFAS im Kanton Zürich in Oberflächengewässern.  
+            Die Abbildung zeigt die PFAS Belastung im Kanton Zürich in Oberflächengewässern.  
             Die gemessenen Werte bewegen sich meist zwischen 0,001 µg/l und 0,1 µg/l. 
             Damit liegen diese Werte über der EU-Wasserrahmenrichtlinie von 0,00065 µg/l. 
         </TxtImage>
@@ -48,6 +48,7 @@ import Card, {Content} from "@smui/card";
 
         Leider liegen für die Untersuchung im Kanton Zürich keine Daten für PFOS allein vor. 
         Daher wird im Folgenden eine detaillierte Untersuchung im Kanton St. Gallen näher erläutert. 
+        <br/><br/>
         Der Kanton St. Gallen hat eine Untersuchung zu PFOS in seinen Fliessgewässern durchgeführt. 
         Im Jahr 2021 wurden 39 Fliessgewässer mit insgesamt 45 Messstellen detailliert untersucht.   
         An jeder Messstelle wurde zweimal gemessen, so dass insgesamt 90 Messdaten zur Verfügung standen.  
@@ -55,7 +56,7 @@ import Card, {Content} from "@smui/card";
 
         Die folgende Abbildung zeigt die Probenahme von PFOS in der Gemeinde Eggersriet.
         <TxtImage src="surfacewater2.png">
-            Abbildung 8: Probeentnahme für PFOS im Boden, Fliessgewässer und Grundwasser in Eggersriet.
+            Probeentnahme für PFOS im Boden, Fliessgewässer und Grundwasser in Eggersriet.
             Die Konzentrationswerte im Fliessgewässer und Grundwasser sind in ng/l angegeben. 
             Aus Datenschutzgründen sind die Konzentrationen in den Bodenproben nicht angegeben. 
         </TxtImage>
@@ -65,13 +66,13 @@ import Card, {Content} from "@smui/card";
         Dazu wurde folgende Abbildung und Tabelle erstellt.<br/><br/>
 
         <TxtImage src="surfacewater3.png">
-            Abbildung 9: Eigene Darstellung der Anzahl der Wasserproben für Grund- und Fliessgewässer in der Gemeinde Eggersriet. 
+            Eigene Darstellung der Anzahl der Wasserproben für Grund- und Fliessgewässer in der Gemeinde Eggersriet. 
             Insgesamt wurden 11 Wasserproben aus dem Grundwasser und 22 Wasserproben aus den Fliessgewässern entnommen. 
-            In Abbildung 9 sind die Wasserproben nach ihrer PFOS-Konzentration geordnet. 
+            In der Abbildung sind die Wasserproben nach ihrer PFOS-Konzentration geordnet. 
             Grundwasserprobe 1 hat eine PFOS-Konzentration von 1371 ng/l, Fliessgewässerprobe 1 hat eine PFOS-Konzentration von 689 ng/l usw.
         </TxtImage>
 
-        Diese gemessenen PFOS-Konzentrationen bilden die Grundlage für weitere Berechnungen in Tabelle 4. 
+        Diese gemessenen PFOS-Konzentrationen bilden die Grundlage für weitere Berechnungen in untensthenden Tabelle. 
         Insbesondere wurden die Anzahl Wasserproben über dem Grenzwert für Schweizer Trinkwasser sowie der arithmetische Mittelwert berechnet.
         
         <TxtImage src="surfacewater4.png" before={false}>
@@ -85,9 +86,9 @@ import Card, {Content} from "@smui/card";
     Weitere Abklärungen im Kanton St. Gallen sind im Gange.
     Ein Vergleich mit Ronneby ist schwierig, da dort die PFOS-Konzentration im Trinkwasser und im Blut gemessen wurde und nicht im Grundwasser und in den Fliessgewässer. 
     Daher ist ein direkter Vergleich etwas schwierig. 
-    Dennoch kann die PFOS-Konzentration im Trinkwasser von Brantafros von 8 000 ng/l mit den beiden arithmetischen Mittelwerten von 652 ng/l und 268 ng/l verglichen werden. 
+    Dennoch kann die PFOS-Konzentration im Trinkwasser von Brantafors von 8000 ng/l mit den beiden arithmetischen Mittelwerten von 652 ng/l und 268 ng/l verglichen werden. 
     Die PFOS-Konzentration in Ronneby war um ein Vielfaches höher.
-    Eine detailliertere Übersicht über den PFOS-Gehalt in den Fliessgewässern ist in Abbildung 12 im Kapitel Nahrung (Fische) dargestellt. 
+    Eine detailliertere Übersicht über den PFOS-Gehalt in den Fliessgewässern ist im Kapitel Fisch dargestellt. 
     Es bleibt festzuhalten, dass auch nach Jahren der starken Einschränkung von PFOS die Chemikalie in Grund- und Fliessgewässern nachgewiesen werden kann.
 
     </Content>

@@ -9,7 +9,7 @@ import Card, {Content} from "@smui/card";
         <h1>Mensch</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
         Unter dem Namen «Schweizer Gesundheitsstudie – Pilotphase» wird ein Pilotprojekt für eine nationale Gesundheitsstudie mit Human-Biomonitoring (HBM) durchgeführt.
         Diese Studie, die von 2018 bis 2021 lief, untersuchte auch PFOS im menschlichen Körper.
         Eckpunkte der Studie:

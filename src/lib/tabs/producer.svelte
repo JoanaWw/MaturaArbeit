@@ -9,7 +9,7 @@
         <h1>Hersteller</h1>
     </Content>
     <div class="divider"/>
-    <Content>
+    <Content class="main_txt">
             
         Weltweit produzieren nur 12 Unternehmen einen Grossteil aller PFAS Chemikalien. Diese Unternehmen sind: 
         <ul>

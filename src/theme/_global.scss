@@ -1,7 +1,12 @@
 main {
     margin: auto;
     max-width: 1000px;
-    text-align: justify;
+}
+
+.main_txt {
+    text-align: justify !important;
+    font-size: 20px !important;
+    line-height: 1.5em !important;
 }
 
 .divider {
@@ -14,7 +19,7 @@ body {
 
 footer {
     margin-top: 20px;
-    margin-bottom: 4em;
+    padding-bottom: 4em;
 }
 footer main {
     margin-top: 10px;
@@ -45,6 +50,6 @@ footer {
 .txt_image_container .label {
     margin-left: 5%;
     width: 90%;
-    font-size: 12px;
+    font-size: 17px;
     text-align: justify;
 }
