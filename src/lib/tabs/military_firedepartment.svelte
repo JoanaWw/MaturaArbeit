@@ -3,14 +3,13 @@
 </script>
 
 
-<main>
-    <Card>
-        <Content>
-            <h1>Feuerwehr und Militär</h1>
-        </Content>
-        <div class="divider"/>
-        <Content>
-            Lorem impsum
-        </Content>
-    </Card>
-</main>
+
+<Card>
+    <Content>
+        <h1>Feuerwehr und Militär</h1>
+    </Content>
+    <div class="divider"/>
+    <Content>
+        Lorem impsum
+    </Content>
+</Card>
