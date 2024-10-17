@@ -3,6 +3,12 @@ main {
     max-width: 1000px;
 }
 
+.main_txt {
+    text-align: justify !important;
+    font-size: 20px !important;
+    line-height: 1.5em !important;
+}
+
 .divider {
     height: 1px;
 	background-color: #676778;
@@ -13,6 +19,7 @@ body {
 
 footer {
     margin-top: 20px;
+    padding-bottom: 4em;
 }
 footer main {
     margin-top: 10px;
@@ -41,7 +48,8 @@ footer {
 }
 
 .txt_image_container .label {
-    margin-right: 7%;
-    width: 85%;
-    font-size: 11px;
+    margin-left: 5%;
+    width: 90%;
+    font-size: 17px;
+    text-align: justify;
 }

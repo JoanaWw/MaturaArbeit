@@ -16,7 +16,6 @@
 		"@material/typography": "^14.0.0",
 		"@mdi/js": "^7.4.47",
 		"@smui/image-list": "^7.0.0",
-		"@smui/list": "^7.0.0",
 		"@smui/tab": "^7.0.0",
 		"@smui/tab-bar": "^7.0.0",
 		"@sveltejs/adapter-auto": "^3.2.5",

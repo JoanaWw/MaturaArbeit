@@ -231,7 +231,7 @@
         {:else if active === tabs[6]}
             <SewageTreatmentPlant />
         {:else if active === tabs[7]}
-            <Rain />
+            <Rain/>
         {:else if active === tabs[8]}
             <Waters />
         {:else if active === tabs[9]}
