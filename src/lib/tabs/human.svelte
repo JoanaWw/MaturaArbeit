@@ -35,7 +35,7 @@ import Card, {Content} from "@smui/card";
             Interessant ist auch eine Auswertung der deutschen Umweltprobenbank, die die PFOS-Belastung im Blut von Studierenden im Zeitverlauf untersuchte.<br/><br/>
             
             <TxtImage src="pfos_human_blood.png">
-                Abbildung: PFOS-Belastung im Blut von Studierenden in Deutschland aus der Umweltprobenbank im Zeitverlauf. 
+                PFOS-Belastung im Blut von Studierenden in Deutschland aus der Umweltprobenbank im Zeitverlauf. 
                 Auf der y-Achse ist das artihmetische Mittel in µg/l angegeben. 
                 Die höchste Konzentrationen wurde im Jahr 1986 mit ca. 25 µg/l gemessen.  
                 Die PFOS-Belastung im Jahr 1986 lag also deutlich über den aktuell geltenden HBM-II Werten von 10 µg/l bzw. 20 µg/l.
