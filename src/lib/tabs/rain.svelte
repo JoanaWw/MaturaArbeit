@@ -1,14 +1,6 @@
 <script lang="ts">
     import TxtImage from "$lib/txt_image.svelte";
     import Card, {Content} from "@smui/card";
-    import List, { Item } from '@smui/list';
-
-    
-    export let military_and_firedepartment: () => string;
-    export let fish: () => string;
-    export let human: () => string;
-    export let water: () => string;
-    export let ground: () => string;
 </script>
 
 
@@ -31,18 +23,5 @@
         </TxtImage>
             
         Wie genau PFOS aus Industrieanlagen in die Luft und Atmosphäre gelangt, ist wissenschaftlich noch nicht im Detail untersucht und nicht Gegenstand dieser Arbeit.
-            
-        Im Folgenden wird der Verbreitungsweg von PFOS über die folgenden Stationen detailliert beschrieben:
-
-        <List>
-            <Item on:SMUI:action={military_and_firedepartment}>Militärstützpunkte & Feuerwehrübungsplätze</Item>
-            <Item on:SMUI:action={water}>Gewässer</Item>
-            <Item on:SMUI:action={ground}>Böden</Item>
-            <Item on:SMUI:action={fish}>Nahrung (Fische)</Item>
-            <Item on:SMUI:action={water}>Trinkwasser</Item>
-            <Item on:SMUI:action={human}>Mensch</Item>
-            </List>
-            
-
     </Content>
 </Card>
