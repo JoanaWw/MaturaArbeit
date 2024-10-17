@@ -72,22 +72,23 @@ import Card, {Content} from "@smui/card";
         Da die Gesamtbevölkerung des Kantons Zürich 1`579`388 Personen beträgt, entspricht dies 59%.  
         Gesamtschweizerisch wird das beprobte Trinkwasser von ca. 71% der Schweizer Bevölkerung konsumiert. 
         Die 564 Proben dieser Kampagne repräsentieren somit einen guten Teil des in der Schweiz konsumierten Trinkwassers. 
-        Ergebnisse dieser Studie allgemein und speziell für PFOS
 
-        <b>Allgemein:</b> In der Untersuchung wurden insgesamt 20 PFAS-Substanzen analysiert. 
+        <h3>Ergebnisse dieser Studie allgemein und speziell für PFOS</h3>
+
+        <h5>Allgemein:</h5> In der Untersuchung wurden insgesamt 20 PFAS-Substanzen analysiert. 
         Dabei zeigte sich, dass in mehr als der Hälfte der Trinkwasserproben (54%) keine PFAS nachgewiesen wurden.  
         In den verbleibenden 258 Proben (46%) wurden jedoch eine oder mehrere dieser 20 PFAS-Substanzen festgestellt. 
 
-        <b>PFOS:</b> PFOS war der am häufigsten nachgewiesene Vertreter der PFAS-Gruppe. 
+        <h5>PFOS:</h5> PFOS war der am häufigsten nachgewiesene Vertreter der PFAS-Gruppe. 
         In 177 (31%) der 564 untersuchten Trinkwasserproben wurde PFOS festgestellt.  
         Die höchste gemessene Konzentration für PFOS lag bei 0,114 µg/l.  
         Dieser Wert liegt unter dem gesetzlich festgelegten Grenzwert von 0,3 µg/l für Trinkwasser. 
         Leider liegen keine Aufschlüsselungen pro Kanton vor. Das Ergebnis zeigt, dass in keiner der 177 Proben der geltende Grenzwert überschritten wurde. 
         Diese Tatsache, dass keine Proben über dem gesetzlichen Grenzwert liegen, ist beruhigend und lässt den Schluss zu, dass das Trinkwasser als Hauptquelle für PFOS-Belastung des Menschen ausgeschlossen werden könnte.  
-
+        <br/><br/>
         Allerdings bleiben einige offene Punkte, die im Folgenden aufgeführt werden:
         <ul>
-        	<li>Bei jedem Experiment repräsentieren die entnommenen Proben nur einen spezifischen Zeitpunkt. Wie sich die Konzentrationen über die Zeit oder durch externe Faktoren wie Grundwasserschwankungen oder Niederschlags-ereignisse verändern, bleibt unbekannt. </li>
+        	<li>Bei jedem Experiment repräsentieren die entnommenen Proben nur einen spezifischen Zeitpunkt. Wie sich die Konzentrationen über die Zeit oder durch externe Faktoren wie Grundwasserschwankungen oder Niederschlagsereignisse verändern, bleibt unbekannt. </li>
         	<li>Es existieren etwa 10 000 verschiedene PFAS, von denen nur ein Bruchteil analytisch nachweisbar ist.</li> 
         	<li>Im Kapitel «Militärstützpunkte und Feuerwehrübungsplätze (Ronneby)» wurde gezeigt, dass die PFOS Belastung im Trinkwasser vielleicht gar nicht so hoch war, aber die Belastung im Blut der Menschen relativ hoch.</li>
         </ul>
