@@ -15,6 +15,7 @@ import Card, {Content} from "@smui/card";
         Das Beispiel der Stadt Ronneby in Schweden verdeutlicht dies eindrucksvoll. 
         Leider oder glücklicherweise gibt es bisher keine Dokumentation eines solchen vergleichbaren Falls in der Schweiz. 
         Im Folgenden wird auf den Fall Ronneby näher eingegangen. 
+        <br/>
         Ronneby ist eine kleine Gemeinde in Südschweden. 
         Im September 2013 wurde dort im Grundwasser eine extrem hohe Konzentration verschiedener PFAS, einschliesslich PFOS, gemessen.  
         Daraufhin wurden die beiden Trinkwasserversorger Brantafors und Kärragarden der Gemeinde genauer untersucht.  
@@ -32,7 +33,7 @@ import Card, {Content} from "@smui/card";
 
         So wurden in Brantafors 8 000 ng/l PFOS im Trinkwasser gefunden, das an die Gemeinde verteilt wurde.
         Im Vergleich dazu sind es in Karlshamn weniger als 0,2 ng/l Trinkwasser. 
-        Diese Daten zeigen, dass die PFOS-Konzentration beim Trinkwasser-versorger Brantafors fast 300-mal höher ist als in Kärragarden und etwa 40 000-mal höher als in der Nachbargemeinde Karlshamn.
+        Diese Daten zeigen, dass die PFOS-Konzentration beim Trinkwasserversorger Brantafors fast 300-mal höher ist als in Kärragarden und etwa 40 000-mal höher als in der Nachbargemeinde Karlshamn.
         <br/><br/>
 
         Diese alarmierenden Werte führten dazu, dass die Wasserversorgung von Brantafors sofort geschlossen wurde.  
@@ -54,7 +55,7 @@ import Card, {Content} from "@smui/card";
         </TxtImage>
 
         <b>Einschub:</b> Erklärung der statistischen Kennzahlen.
-        In der Tabelle 3 werden vier statistische Kennzahlen aufgeführt. 
+        In der Tabelle werden vier statistische Kennzahlen aufgeführt. 
         Das Minimum (Min) und das Maximum (Max) sind der Kleinste und der Höchste gemessene Wert der Datenreihe. 
         In der Gruppe Brantafors gab es also eine Person mit einem PFOS-Wert von 24,1 µg/l Blut und eine Person mit 1 500 µg/l  Blut. 
         <br/><br/>
@@ -69,7 +70,7 @@ import Card, {Content} from "@smui/card";
         Diese Gruppe bezog ihr Trinkwasser von beiden Trinkwasserversorgern Brantafors und Kärragarden in Ronneby. 
         Die Gruppe Karlshamn hat ihr Trinkwasser von dem Trinkwasserversorger Karlshamn bezogen und hier haben sich 242 Personen für freiwillige Bluttests gemeldet.
         Die PFOS-Belastung der drei Gruppen wird anhand des arithmetischen Mittels im folgendem genauer beschrieben. 
-        In der Gruppe Brantafors haben die Studien-teilnehmer die höchste PFOS-Konzentration in ihrem Blut. 
+        In der Gruppe Brantafors haben die Studienteilnehmer die höchste PFOS-Konzentration in ihrem Blut. 
         Ihr arithmetisches Mittel liegt bei 387 µg/l. Das arithmetische Mittel der Gruppe Ronneby beträgt 245 µg/l. 
         Der Wert liegt etwas niedriger im Vergleich zur Gruppe Brantafors, da diese Gruppe das Trinkwasser von beiden Trinkwasserversorgern bekommen hat. 
         Somit gibt es Personen, die nicht mit dem PFOS-belasteten Trinkwasser in ihren Häusern versorgt wurden. 
