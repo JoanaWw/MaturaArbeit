@@ -14,7 +14,7 @@ import Card, {Content} from "@smui/card";
         Dazu wurden insgesamt 146 Oberbodenproben aus drei verschiedenen Messkampagnen zusammengeführt.  
         Die untersuchten Bodenproben verteilen sich über die ganze Schweiz und es wurde keine Fokussierung auf potenziell belastete Standorte wie z.B. Feuerwehrübungsplätze vorgenommen.  
         Die Auswahl repräsentiert verschiedene Regionen, Nutzungsarten und Klimazonen.  Nutzungsarten sind z.B. Garten, Urban, Grasland/ Wald, Ackerbau oder alpiner Standort.  
-        Die folgende Abbildung 10 zeigt die Verteilung der PFAS-32-Konzentration in Schweizer Böden. 
+        Die folgende Abbildung zeigt die Verteilung der PFAS-32-Konzentration in Schweizer Böden. 
         Die PFAS-32-Konzentration ist die Summe von 32 verschiedenen PFAS, einschliesslich PFOS.   
 
         <TxtImage src="ground1.png">
@@ -23,7 +23,7 @@ import Card, {Content} from "@smui/card";
             Die Bestimmungsgrenze (BG) für die Summe der 32 PFAS lag bei 0,02 µg/kg Trockensubstanz.  
             Die Bodenproben wurden bei 40 Grad getrocknet und anschliessend gesiebt.  
             Dies ergab die untersuchte Trockensubstanz. Die BG wurde von der Projektgruppe festgelegt. 
-            Gemessene Konzentra-tionen über der BG wurden in die Graphik aufgenommen. 
+            Gemessene Konzentrationen über der BG wurden in die Graphik aufgenommen. 
             Dunkelgrün markiert sind demnach Standorte mit einer Summenkonzentration zwischen 0,02 µg/kg und 0,96 µg/kg Boden-Trockensubstanz. 
             Für Böden gibt es bisher keine (gesetzlichen) Grenzwerte. 
             Daher wird in der Graphik einfach die gemessene Konzentration aufgeführt. 
