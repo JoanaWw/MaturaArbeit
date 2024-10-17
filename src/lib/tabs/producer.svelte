@@ -1,6 +1,6 @@
 <script>
     import Card, {Content} from "@smui/card";
-    import List, { Item, Separator, Text } from '@smui/list';
+    import List, { Item } from '@smui/list';
 </script>
 
 
