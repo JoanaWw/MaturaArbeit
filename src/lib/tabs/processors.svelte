@@ -10,7 +10,7 @@
         </Content>
         <div class="divider"/>
         <Content>
-            Die verarbeitende Industrie verwendet die Chemikalien auf vielfältige Weise, z.B. bei der Herstellung von Textilien, Lebensmittel-verpackungen, Feuerlöschschaum, Elektronik, Galvanik, Medizintechnik und vielen anderen Produkten.
+            Die verarbeitende Industrie verwendet die Chemikalien auf vielfältige Weise, z.B. bei der Herstellung von Textilien, Lebensmittelverpackungen, Feuerlöschschaum, Elektronik, Galvanik, Medizintechnik und vielen anderen Produkten.
         </Content>
     </Card>
 </main>
