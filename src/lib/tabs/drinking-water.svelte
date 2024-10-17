@@ -4,7 +4,6 @@ import Card, {Content} from "@smui/card";
 </script>
 
 
-<main>
     <Card>
         <Content>
             <h1>Trinkwasser</h1>
@@ -106,4 +105,3 @@ import Card, {Content} from "@smui/card";
 
         </Content>
     </Card>
-</main>

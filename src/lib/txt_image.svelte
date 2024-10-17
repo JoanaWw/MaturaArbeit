@@ -2,11 +2,17 @@
     import { Image } from '@smui/image-list';
     
     export let src: string;
+    export let before = true;
 </script>
 
 <div class="txt_image_container">
-    <Image src={src} alt=""/>
+    {#if before}    
+        <Image src={src} alt=""/>
+    {/if}
     <div class="label">
         <slot/>
     </div>
+    {#if !before}    
+        <Image src={src} alt=""/>
+    {/if}
 </div>
