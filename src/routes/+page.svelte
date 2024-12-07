@@ -56,7 +56,7 @@
     </Content>
     <Content>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <img src="model.svg"/>
+        <img src="model2.svg"/>
         <svg class="overlay" viewBox="300 0 1244 863">
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
