@@ -19,7 +19,7 @@
 			{/if}
 		</Section>
 		<Section>
-			<Title>PFOS Eine schleichende Bedrohung für Mensch und Umwelt</Title>
+			<Title>PFOS: Eine schleichende Bedrohung für Mensch und Umwelt</Title>
 		</Section>
 	</Row>    
 </TopAppBar>
